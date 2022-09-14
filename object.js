@@ -27,5 +27,5 @@ console.log(myComputer.processor);
 myComputer.processor = 'i3-10100U';
 console.log(myComputer.processor);
 
-console.log(mobile.brand);
-console.log(student.name);
+// console.log(mobile.brand);
+// console.log(student.name);
